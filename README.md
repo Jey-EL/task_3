@@ -28,7 +28,7 @@ detail.html?nama=Budi+Santoso&nim=123456789&email=budi%40mail.com&jurusan=Teknik
 
 ## Link Website
 - GitHub Repository: https://github.com/Jey-EL/task_3
-- GitHub Pages: 
+- GitHub Pages: https://jey-el.github.io/task_3/
 
 ## Screenshot
 
