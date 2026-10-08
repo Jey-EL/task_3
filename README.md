@@ -2,9 +2,9 @@
 
 Halaman web sederhana dengan dua halaman: pendaftaran dan detail pendaftar.
 
-**Nama:** Jundi Lamtara
-**NIM:** 124140190
-**Kelas:** Pemrograman Aplikasi Web (PAW) RB
+-- **Nama:** Jundi Lamtara
+-- **NIM:** 124140190
+-- **Kelas:** Pemrograman Aplikasi Web (PAW) RB
 
 ## Isi Folder
 
