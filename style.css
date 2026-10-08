@@ -1,0 +1,57 @@
+/* Selektor elemen */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f4f8;
+}
+
+/* Selektor class */
+.box {
+  width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+/* Selektor id */
+#judul {
+  text-align: center;
+  color: #3a63b5;
+}
+
+/* Selektor turunan (form + elemen di dalamnya) */
+form input {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0 15px 0;
+  box-sizing: border-box;
+}
+
+form button {
+  width: 100%;
+  padding: 10px;
+  background-color: #3a63b5;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+/* Tabel */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 15px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #e8edf7;
+  width: 30%;
+}
