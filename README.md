@@ -2,9 +2,10 @@
 
 Halaman web sederhana dengan dua halaman: pendaftaran dan detail pendaftar.
 
--- **Nama:** Jundi Lamtara
--- **NIM:** 124140190
--- **Kelas:** Pemrograman Aplikasi Web (PAW) RB
+## Identitas
+- Nama: Jundi Lamtara
+- NIM: 124140190
+- GitHub: Jey-EL
 
 ## Isi Folder
 
@@ -24,6 +25,10 @@ Halaman web sederhana dengan dua halaman: pendaftaran dan detail pendaftar.
 ```
 detail.html?nama=Budi+Santoso&nim=123456789&email=budi%40mail.com&jurusan=Teknik+Informatika
 ```
+
+## Link Website
+- GitHub Repository: https://github.com/Jey-EL/task_3
+- GitHub Pages: 
 
 ## Screenshot
 
