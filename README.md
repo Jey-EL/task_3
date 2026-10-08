@@ -29,11 +29,11 @@ detail.html?nama=Budi+Santoso&nim=123456789&email=budi%40mail.com&jurusan=Teknik
 
 **Halaman Pendaftaran (`index.html`)**
 
-![Halaman Pendaftaran](<Screenshot 2026-10-09 000439.png>)
+<img width="1920" height="1080" alt="Screenshot 2026-10-09 000439" src="https://github.com/user-attachments/assets/edcd8b1a-8385-471f-9d8b-ba28284fefee" />
 
 **Halaman Detail Pendaftar (`detail.html`)**
 
-![Halaman Detail](<Screenshot 2026-10-09 000130.png>)
+<img width="1920" height="1080" alt="Screenshot 2026-10-09 000130" src="https://github.com/user-attachments/assets/ea3a12d4-09dd-4baa-a87e-5badb2bb5149" />
 
 ## Ketentuan yang Dipenuhi
 
